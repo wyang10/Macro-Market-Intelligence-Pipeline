@@ -1,0 +1,22 @@
+lookback_days: 180
+tickers:
+  SPX: "^GSPC"
+  DXY: "DX-Y.NYB"
+  UST10Y: "^TNX"
+  VIX: "^VIX"
+polymarket_filters:
+  phrases: ["next meeting", "FOMC", "rate decision", "decision in"]
+trade_keywords:
+  - tariff
+  - export control
+  - sanction
+  - entity list
+  - section 301
+  - 301 tariff
+  - 关税
+  - 关税上调
+  - 关税豁免
+  - 出口管制
+  - 制裁
+  - 实体清单
+  - 芯片禁令
