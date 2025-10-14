@@ -93,12 +93,11 @@ Weekly Report HTML Snapshot — final rendered output.
 
 
 
-![Macro Pipeline Architecture](report_out/report_assets/architecture.png)
+
 ![Macro Pipeline Macro](report_out/report_assets/Macro.png)
 ![Macro Pipeline Orchestration](report_out/report_assets/Orchestration.png)
-![Macro Pipeline Micro](report_out/report_assets/Micro.png)
-
-
+![Macro Pipeline report HTML](report_out/report_assets/report_html.png)
+![Macro Pipeline Architecture](report_out/report_assets/architecture.png)
 
 
 ## 🧭 Tech Stack
