@@ -91,12 +91,9 @@ Cumulative CAPEX — capital expenditure trends by sector.
 Weekly Report HTML Snapshot — final rendered output.
 
 
-
-
-
-![Macro Pipeline Macro](report_out/report_assets/Macro.png)
-![Macro Pipeline Orchestration](report_out/report_assets/Orchestration.png)
-![Macro Pipeline report HTML](report_out/report_assets/report_html.png)
+![Macro Pipeline Peocess](report_out/report_assets/Process.png)
+![Macro Pipeline report HTML](report_out/report_assets/Report.png)
+![Macro Pipeline Figure](report_out/report_assets/Figure.png)
 ![Macro Pipeline Architecture](report_out/report_assets/architecture.png)
 
 
