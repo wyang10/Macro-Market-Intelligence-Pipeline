@@ -8,7 +8,7 @@ macro-market-intelligence-pipeline
 
 > **Built from signals to insights — a macro intelligence pipeline by Audrey Yang🦊.**
 
-![Architecture Cover](report_assets/Cover.png)
+![Architecture Cover](report_out/report_assets/Cover.png)
 
 ---
 
@@ -93,10 +93,10 @@ Weekly Report HTML Snapshot — final rendered output.
 
 
 
-![Macro Pipeline Architecture](report_assets/architecture.png)
-![Macro Pipeline Macro](report_assets/Macro.png)
-![Macro Pipeline Orchestration](report_assets/Orchestration.png)
-![Macro Pipeline Micro](report_assets/Micro.png)
+![Macro Pipeline Architecture](report_out/report_assets/architecture.png)
+![Macro Pipeline Macro](report_out/report_assets/Macro.png)
+![Macro Pipeline Orchestration](report_out/report_assets/Orchestration.png)
+![Macro Pipeline Micro](report_out/report_assets/Micro.png)
 
 
 
