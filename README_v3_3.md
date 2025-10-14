@@ -8,7 +8,7 @@ macro-market-intelligence-pipeline
 
 > **Built from signals to insights — a macro intelligence pipeline by Audrey Yang🦊.**
 
-![Architecture Cover](report_assets/Cover.png)
+![Architecture Cover](report_out/report_assets/Cover.png)
 
 ---
 
